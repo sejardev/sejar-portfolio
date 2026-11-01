@@ -6,7 +6,7 @@ The site introduces Sejar as an aspiring full-stack developer, lists his skills,
 
 ## View the site
 
-Visit [sejar426.github.io/sejar-portfolio](https://sejar426.github.io/sejar-portfolio/).
+Visit [sejardev.github.io/sejar-portfolio](https://sejardev.github.io/sejar-portfolio/).
 
 ## Run locally
 
