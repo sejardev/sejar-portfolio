@@ -785,3 +785,4 @@ nav a[aria-current="location"] {
   z-index: 2;
 }
 
+.pocket-art{background:#eaf0e5;color:#244f3a}.pocket-preview{padding:26px 30px}.pocket-preview>span{font-size:10px;letter-spacing:3px}.pocket-preview h3{font-size:27px;letter-spacing:-1px;margin:12px 0}.pocket-preview-total{font-size:12px;line-height:1.8}.pocket-preview-total strong{font-size:21px}.preview-bars{display:grid;gap:9px;margin-top:20px}.preview-bars i{display:block;background:#85a684;height:7px;border-radius:6px;width:85%}.preview-bars i:nth-child(2){width:60%}.preview-bars i:nth-child(3){width:35%}
